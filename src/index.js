@@ -6,8 +6,8 @@ import 'tachyons';
 import './index.css';
 
 const networkInterface = createNetworkInterface({
-  uri: 'http://antserver-blocjgjbpw.now.sh/graphql'
-})
+  uri: 'https://antserver-blocjgjbpw.now.sh/graphql'
+});
 
 const client = new ApolloClient({networkInterface})
 
