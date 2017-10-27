@@ -10,5 +10,5 @@ Thank you for taking the time to review this submission.
 ## TODO
 1. Fix output of Ant-run likelihood algorithm. See comments in src/components/AppContainer.jsx.
 
-##Contact
+## Contact
 Elsa Brown elsambrown@gmail.com
