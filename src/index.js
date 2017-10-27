@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import AppContainer from './AppContainer';
 import {ApolloProvider, createNetworkInterface, ApolloClient} from 'react-apollo';
 import 'tachyons';
 import './index.css';
@@ -13,7 +13,7 @@ const client = new ApolloClient({networkInterface})
 
 ReactDOM.render(
   <ApolloProvider client={client}>
-    <App />
+    <AppContainer />
   </ApolloProvider>,
   document.getElementById('app')
 );
