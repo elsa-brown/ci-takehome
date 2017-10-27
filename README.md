@@ -8,7 +8,7 @@ Thank you for taking the time to review this submission.
 3. App will open at `http://localhost:3000`
 
 ## TODO
-1. Fix output of Ant-run likelihood algorithm. See comments in src/components/AppContainer.jsx.
+1. Fix output of 'Ant-run likelihood algorithm'. See comments in `src/components/AppContainer.jsx`.
 
 ## Contact
-Elsa Brown elsambrown@gmail.com
+Elsa Brown, elsambrown@gmail.com
